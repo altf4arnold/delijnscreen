@@ -1,0 +1,3 @@
+[submodule "delijnschedule"]
+	path = delijnschedule
+	url = https://github.com/altf4arnold/delijnschedule
